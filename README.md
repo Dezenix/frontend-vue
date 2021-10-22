@@ -1,6 +1,6 @@
 <h1 align="center">Frontend VUE</h1>
 
-![frontend vue](https://user-images.githubusercontent.com/79747022/138314488-14c0e7b9-5fa9-43ae-adb9-74820b9e8836.png)
+![3](https://user-images.githubusercontent.com/79747022/138425380-9bc2ef7a-8da1-445a-9fbe-6a7092bc9b54.png)
 
 <div align="center">
 
@@ -17,7 +17,8 @@
 <a href="https://github.com/Dezenix/frontend-vue/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/frontend-vue?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/frontend-vue/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/frontend-vue?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/frontend-vue/issues"><img src="https://img.shields.io/github/issues/Dezenix/frontend-vue?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
