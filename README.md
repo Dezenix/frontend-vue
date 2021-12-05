@@ -25,9 +25,23 @@
 
 Are we missing any of your favorite features, which you think you can add to it? We invite you to contribute to this project and improve it further.
 
-Click on the image below to set up and contribute to the project or [Click here](https://github.com/Dezenix/.github/blob/main/CONTRIBUTING.md)
+#### 1. Clone and Setup:
+* Clone and Setup the repository by following the steps mentioned [here](https://github.com/Dezenix/.github/blob/main/CONTRIBUTING.md).
 
-[![setup](https://user-images.githubusercontent.com/79747022/138314285-690ed51b-f747-4c7c-a192-c8237d37a531.png)](https://github.com/Dezenix/.github/blob/main/CONTRIBUTING.md)
+#### 2. Add your Components:
+* All the usermade components should be made under [`src/lib-components`](https://github.com/Dezenix/frontend-vue/tree/main/src/lib-components).
+* Preferably use **TypeScript** but **JavaScript** is also accepted.
+
+#### 3. Export your Component:
+* When a component is made, export it from [`index.ts`](https://github.com/Dezenix/frontend-vue/blob/main/src/lib-components/index.ts).
+
+#### 4. View your Component:
+* If you want to view how your component looks, goto [`example/serve.ts`](https://github.com/Dezenix/frontend-vue/blob/main/example/serve.ts) and add a route for your component.
+
+#### 5. Run the App:
+```
+yarn serve
+```
 
 ## 👨‍💻 Our valuable Contributors
 
