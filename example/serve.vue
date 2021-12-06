@@ -10,7 +10,6 @@ export default Vue.extend({
   <div id="app">
     <p>
       <router-link to="/sample">Go to Foo</router-link>
-      <router-link to="/bar">Go to Bar</router-link>
     </p>
     <router-view></router-view>
   </div>
