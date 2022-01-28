@@ -1,6 +1,6 @@
 <h1 align="center">Frontend VUE</h1>
 
-![3](https://user-images.githubusercontent.com/79747022/138425380-9bc2ef7a-8da1-445a-9fbe-6a7092bc9b54.png)
+![3](https://user-images.githubusercontent.com/79747022/151585268-47ba53f8-dda8-4b58-8c7f-90885a2ce967.png)
 
 <div align="center">
 
@@ -62,4 +62,4 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![thank you](https://user-images.githubusercontent.com/79747022/138314224-73706946-abda-4ce3-81bc-64152e838b5f.png)
+![t](https://user-images.githubusercontent.com/79747022/151585326-a94f0b1d-3f23-481f-91e9-d75587b8fd0b.png)
